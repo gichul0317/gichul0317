@@ -1,7 +1,10 @@
-<h1>Hello, I am Gichul Jaun. A Web Developer in Toronto, Ontario</h1>
+<h1>Hello, I am Gichul Jaun. A Software Engineering student at Centennial College.</h1>
 
 <p>
-  I design and build beautiful and modern websites. By combining knowledge and best practices in web development and design that I gained from studies and works, I provide user-friendly and accessible web sites and applications. Along with skills listed here, I love to learn new libraries, tools and concepts in web development and web design. You can check out my works at <a href='https://gichul-j.com/' target='_blank'>my portfolio site</a>
+   I began my career as an IT Support and Security Specialist, assisting businesses in troubleshooting technical issues and optimizing their systems. Through hands-on experience with technology, I discovered my passion for software development and started learning independently through online resources. I later worked as a Web Developer, but to further enhance my skills, I am currently pursuing an Advanced Diploma in Software Engineering (AI) at Centennial College.
+</p>
+<p>
+As a goal-driven team player, I thrive on making a positive impact in every collaboration. I actively support team efforts, tackle challenges head-on, and contribute to innovative problem-solving, all while continuously learning and improving. With a strong passion for exploring new programming libraries, tools, and concepts, I am eager to apply my skills and grow in a professional environment with exciting opportunities ahead. You can check out my works at <a href='https://gichul-j.com/' target='_blank'>my portfolio site</a>
 </p>
 
 <h2>My tech stacks 🧑🏻‍💻✨</h2>
@@ -17,6 +20,7 @@
  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>
  <img alt="OracleDB" src="https://img.shields.io/badge/OracleDB-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white"/>
  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+ <img alt="Pressbooks" src="https://img.shields.io/badge/Pressbooks-39457E.svg?style=for-the-badge&logo=openbook&logoColor=white"/> 
 </div>
 
 <!--
