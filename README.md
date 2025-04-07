@@ -14,6 +14,7 @@
  <img alt='firebase' src='https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=HTML&locoColor=white'/> 
  <img alt='figma' src='https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=HTML&locoColor=white'/> 
  <img alt='webflow' src='https://img.shields.io/badge/Webflow-4353FF.svg?style=for-the-badge&logo=HTML&locoColor=white'/> 
+ <img alt='Python' src='https://img.shields.io/badge/Webflow-4353FF.svg?style=for-the-badge&logo=HTML&locoColor=white'/>
 </div>
 
 <!--
