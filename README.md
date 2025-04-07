@@ -1,7 +1,7 @@
 <h1>Hello, I am Gichul Jaun. A Web Developer in Toronto, Ontario</h1>
 
 <p>
-  I design and build beautiful and modern websites. By combining knowledge and best practices in web development and design that I gained from studies and works, I provide user-friendly and accessible web sites and applications. Along with skills listed here, I love to learn new libraries, tools and concepts in web development and web design. You can check out my works at <a href='https://gichul-j.com/'>my portfolio site</a>
+  I design and build beautiful and modern websites. By combining knowledge and best practices in web development and design that I gained from studies and works, I provide user-friendly and accessible web sites and applications. Along with skills listed here, I love to learn new libraries, tools and concepts in web development and web design. You can check out my works at <a href='https://gichul-j.com/' target='_blank'>my portfolio site</a>
 </p>
 
 <h2>My tech stacks 🧑🏻‍💻✨</h2>
@@ -14,7 +14,9 @@
  <img alt='firebase' src='https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=HTML&locoColor=white'/> 
  <img alt='figma' src='https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=HTML&locoColor=white'/> 
  <img alt='webflow' src='https://img.shields.io/badge/Webflow-4353FF.svg?style=for-the-badge&logo=HTML&locoColor=white'/> 
- <img alt='Python' src='https://img.shields.io/badge/Webflow-4353FF.svg?style=for-the-badge&logo=HTML&locoColor=white'/>
+ <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>
+ <img alt="OracleDB" src="https://img.shields.io/badge/OracleDB-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white"/>
+ <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
 
 <!--
